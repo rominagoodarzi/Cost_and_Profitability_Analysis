@@ -5,7 +5,6 @@ Created by Romina Goodarzi
 [![Food-delivery.png](https://i.postimg.cc/nr7XpmDN/Food-delivery.png)](https://postimg.cc/7JHHNfXN)
 
 
-Image via Google
 
 
 A food delivery service is struggling to achieve overall profitability. To address this challenge, a comprehensive analysis of 1,000 food orders is being undertaken. This data set offers a granular view of individual orders, including details like customer and restaurant information, order value, delivery fees, and associated costs like discounts, commissions, payment processing, and potential refunds. By leveraging this rich data, we aim to understand the key cost drivers impacting profitability and identify strategic opportunities for improvement.
