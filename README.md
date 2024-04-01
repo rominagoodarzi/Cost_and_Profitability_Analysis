@@ -1,8 +1,8 @@
 ## Cost and Profitability Analysis
 Created by Romina Goodarzi
 
-!["Food Delivery"](/Users/rominagoodarzi/Desktop/Coding_Sample/Food_delivery.png)
 
+!(/Users/rominagoodarzi/Desktop/Coding_Sample/Food_delivery.png)
 Image via Google
 
 
