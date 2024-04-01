@@ -2,7 +2,7 @@
 Created by Romina Goodarzi
 
 
-!(/Users/rominagoodarzi/Desktop/Coding_Sample/Food_delivery.png)
+!["Food Delivery"](/Users/rominagoodarzi/Desktop/Coding_Sample/Food_delivery.png)
 Image via Google
 
 
